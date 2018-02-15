@@ -43,7 +43,6 @@ Some of the names generated:
 5. Trocemitetes
 
 If you observe carefully, our model has learned to capture `saurus`, `don`,`aura`, `tor` at the end of every dinosaur name
-
 **TODO**: Use LSTM in-place of RNNs with help of Keras
 
 ### DIY
